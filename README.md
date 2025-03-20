@@ -124,8 +124,8 @@ LMS LPD adalah platform Sistem Manajemen Pembelajaran (Learning Management Syste
 
 ## Dukungan
 
-Jika Anda mengalami masalah atau memiliki pertanyaan, silakan hubungi tim dukungan kami di [email_dukungan@lmslpd.id].
+Jika Anda mengalami masalah atau memiliki pertanyaan, silakan hubungi tim dukungan kami di admin@panel.desapasayangan.my.id.
 
 ## Lisensi
 
-Hak Cipta © 2024 LMS LPD. Semua hak dilindungi undang-undang.
+Hak Cipta © 2025 LMS LPD. Semua hak dilindungi undang-undang.
