@@ -43,7 +43,7 @@ LMS LPD adalah platform Sistem Manajemen Pembelajaran (Learning Management Syste
 
 1. **Kloning Repositori**
    ```bash
-   git clone [URL_REPOSITORI]
+   git clone https://github.com/irfan-lie92/lpdlms.git
    cd lms-lpd
    ```
 
